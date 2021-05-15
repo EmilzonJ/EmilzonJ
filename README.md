@@ -1,16 +1,16 @@
-### Hi there 👋
+## System.out.print ( " Hi, I'm Emilzon! " ); 👋
 
-<!--
-**EmilzonJ/EmilzonJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Yes, I'm a programmer, passionate about new technologies and learning the most 
+#### magical ways to solve problems through programming. 
+----------------------------------------------------------------
+### "Today I know more than yesterday and less than tomorrow."
+----------------------------------------------------------------
 
-Here are some ideas to get you started:
+Skills : JAVA / PYTHON / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Constantly learning
+
+
+
+
+
