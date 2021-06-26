@@ -5,7 +5,7 @@
 
 
 
-Skills : PYTHON / DJANGO / JS / HTML / CSS
+Skills : PYTHON / DJANGO / HTML / CSS
 
 - Constantly learning
 
