@@ -5,7 +5,7 @@
 
 
 
-Skills : PYTHON / DJANGO / HTML / CSS
+Skills : PYTHON / DJANGO / HTML / CSS -- .NET C# Learning... 
 
 - Constantly learning
 
