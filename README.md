@@ -5,7 +5,8 @@
 
 
 
-Skills : PYTHON / DJANGO / HTML / CSS / .NET C# Learning... 
+Skills : BackEnd: PYTHON / DJANGO / Django RestFramework / Learning .NET C#
+         Frotend: JS / HTML / CSS  
 
 - Constantly learning
 
