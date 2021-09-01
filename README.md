@@ -6,7 +6,7 @@
 
 
 Skills : 
-- BackEnd: PYTHON / DJANGO / Django RestFramework / Learning .NET C# 
+- BackEnd: PYTHON / DJANGO / Django RestFramework / C# / Learning ASP .NET 
 - FrontEnd: JS / HTML / CSS  
 
 - Constantly learning
