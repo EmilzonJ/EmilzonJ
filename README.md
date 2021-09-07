@@ -18,9 +18,9 @@
 
 <br>
   
-## 🛠  Technologies
+## 🛠  Technologies:
 
-# BackEnd
+# BackEnd:
 <table>
   <tr>
     <td align="center" width="96">
@@ -44,7 +44,7 @@
   </tr>
 </table>
 
-# FrontEnd
+# FrontEnd:
 <table>
   <tr>
     <td align="center" width="96">
@@ -111,7 +111,7 @@
 
 
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links 
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links: 
 <!-- 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/user)  &nbsp; [<img 
 src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/sciencepal/)  &nbsp;  -->
