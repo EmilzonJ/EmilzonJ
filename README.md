@@ -19,8 +19,67 @@
 <br>
   
 ## 🛠  Technologies
-- BackEnd: PYTHON / DJANGO / Django RestFramework / C# / Learning ASP .NET 
-- FrontEnd: JS / HTML / CSS 
+
+# BackEnd
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://img.icons8.com/color/50/000000/django.png" alt="Django"/> 
+      </a>
+      <br>Django and RestFramework 
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>  
+      </a>
+      <br>C# and Asp
+    </td>
+  </tr>
+</table>
+
+# FrontEnd
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="JavaScript"/>
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+       <img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="HTML"/>
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+       <img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS"/>
+      </a>
+      <br>CSS
+    </td>
+  </tr>
+</table>
+
+# Tools
+
+<table>
+  <tr>
+     <td align="center" width="96">
+      <a href="#" >
+       <img src="https://img.icons8.com/color/50/000000/git.png" alt="Git"/>
+      </a>
+      <br>Git
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -53,7 +112,10 @@
 
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links 
-  
+<!-- 
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/user)  &nbsp; [<img 
+src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/sciencepal/)  &nbsp;  -->
+
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/emilzon-jeronimo-8651ab209)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://instagram.com/emilzon__)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:emilzonujero@gmail.com)  &nbsp; 
   
   
