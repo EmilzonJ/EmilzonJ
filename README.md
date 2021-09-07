@@ -1,15 +1,64 @@
-### print ( " Hi, I'm Emilzon! " ) 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hello%2C%20World!%22);Console.Writeline(%22Hello%2C%20World!%22);console.log(%22Hello%2C%20World!%22)&font=Fira%20Code&center=true&width=1000&height=50&size=25">
+  </a>
+</h1>
+<p align="center">
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Emilzon!;BackEnd+Developer!&font=Fira%20Code&center=true&width=380&height=50&size=30">
+</p> 
 
-#### Yes, I'm a programmer, passionate about new technologies and learning the most 
-#### magical ways to solve problems through programming. 
+<br>
 
+<p align="center">
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/48784001/130169241-21e51597-9693-47ff-a304-de1812851cd7.gif">
+  </a>
+</p>
 
-
-Skills : 
+<br>
+  
+## 🛠  Technologies
 - BackEnd: PYTHON / DJANGO / Django RestFramework / C# / Learning ASP .NET 
-- FrontEnd: JS / HTML / CSS  
+- FrontEnd: JS / HTML / CSS 
 
-- Constantly learning
+<br>
+
+## 📊 Stats:
+
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=EmilzonJ&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilzonJ&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
+  </a>
+  <br>
+<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EmilzonJ&bg_color=0d1117&text_color=FFF&border_color=444">
+  </a> -->
+</p>
+
+## 🔥 Contributions:
+<p>
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=EmilzonJ&theme=react&background=0d1117&border=666">
+  </a>
+  <br>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=EmilzonJ&theme=react-dark&hide_border=true">
+  </a>
+</p>
+
+
+
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links 
+  
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/emilzon-jeronimo-8651ab209)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://instagram.com/emilzon__)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](https://instagram.com/emilzon__)  &nbsp; 
+<a href="mailto:emilzonujero@gmail.com">  
+  
+  
+
 
 
 
