@@ -96,7 +96,7 @@
 <!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EmilzonJ&bg_color=0d1117&text_color=FFF&border_color=444">
   </a> -->
-</p> --> -->
+</p>
 
 <!-- ## 🔥 Contributions:
 <p>
