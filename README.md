@@ -39,7 +39,7 @@
       <a href="#">
         <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>  
       </a>
-      <br>C# .NET 5
+      <br>.NET
     </td>
   </tr>
 </table>
