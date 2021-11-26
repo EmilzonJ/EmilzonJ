@@ -85,7 +85,7 @@
 
 ## 📊 Stats:
 
-<p>
+<!-- <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=EmilzonJ&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
   </a>
@@ -96,7 +96,7 @@
 <!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EmilzonJ&bg_color=0d1117&text_color=FFF&border_color=444">
   </a> -->
-</p>
+</p> -->
 
 ## 🔥 Contributions:
 <p>
