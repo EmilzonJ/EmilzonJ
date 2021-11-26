@@ -83,7 +83,7 @@
 
 <br>
 
-## 📊 Stats:
+<!-- ## 📊 Stats:
 
 <!-- <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -96,9 +96,9 @@
 <!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EmilzonJ&bg_color=0d1117&text_color=FFF&border_color=444">
   </a> -->
-</p> -->
+</p> --> -->
 
-## 🔥 Contributions:
+<!-- ## 🔥 Contributions:
 <p>
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=EmilzonJ&theme=react&background=0d1117&border=666">
@@ -107,7 +107,7 @@
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=EmilzonJ&theme=react-dark&hide_border=true">
   </a>
-</p>
+</p> -->
 
 
 
