@@ -33,7 +33,7 @@
       <a href="#macropower-tech" >
         <img src="https://img.icons8.com/color/50/000000/django.png" alt="Django"/> 
       </a>
-      <br>Django RF
+      <br>Django
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -101,7 +101,7 @@
       <a href="#" >
        <img src="https://img.icons8.com/color/50/000000/docker" alt="Docker"/>
       </a>
-      <br>Docker && Compose
+      <br>Docker C
     </td>
   </tr>
 </table>
