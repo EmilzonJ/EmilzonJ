@@ -103,6 +103,12 @@
       </a>
       <br>PostgreSQL
     </td>
+    <td align="center" width="96">
+      <a href="#" >
+       <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+      </a>
+      <br>MySQL
+    </td>
   </tr>
 </table>
 
