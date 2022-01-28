@@ -114,7 +114,7 @@
       <a href="#" >
        <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="MSSQL server"/>
       </a>
-      <br>MSSQL Server
+      <br>MSSQL
     </td>
     <td align="center" width="96">
       <a href="#" >
