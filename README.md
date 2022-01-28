@@ -82,7 +82,7 @@
       <a href="#" >
        <img src="https://img.icons8.com/color/50/000000/docker" alt="Docker"/>
       </a>
-      <br>Docker
+      <br>Docker && Compose
     </td>
   </tr>
 </table>
