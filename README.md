@@ -33,7 +33,7 @@
       <a href="#macropower-tech" >
         <img src="https://img.icons8.com/color/50/000000/django.png" alt="Django"/> 
       </a>
-      <br>Django and RestFramework 
+      <br>Django RF
     </td>
     <td align="center" width="96">
       <a href="#">
