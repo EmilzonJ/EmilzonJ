@@ -80,9 +80,9 @@
     </td>
     <td align="center" width="96">
       <a href="#" >
-       <img src="https://img.icons8.com/color/50/000000/docker" alt="Docker"/>
+       <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux"/>
       </a>
-      <br>Docker && Compose
+      <br>Linux
     </td>
   </tr>
 </table>
