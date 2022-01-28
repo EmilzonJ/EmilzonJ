@@ -87,6 +87,25 @@
   </tr>
 </table>
 
+# DevOps
+
+<table>
+  <tr>
+     <td align="center" width="96">
+      <a href="#" >
+       <img src="https://img.icons8.com/fluency/48/000000/azure-1.png" alt="Git"/>
+      </a>
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+       <img src="https://img.icons8.com/color/50/000000/docker" alt="Docker"/>
+      </a>
+      <br>Docker && Compose
+    </td>
+  </tr>
+</table>
+
 # Databases
 
 <table>
