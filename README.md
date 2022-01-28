@@ -79,6 +79,14 @@
       <br>Git
     </td>
   </tr>
+    <tr>
+     <td align="center" width="96">
+      <a href="#" >
+       <img src="https://img.icons8.com/color/50/000000/docker" alt="Docker"/>
+      </a>
+      <br>Docker
+    </td>
+  </tr>
 </table>
 
 <br>
