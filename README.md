@@ -78,9 +78,7 @@
       </a>
       <br>Git
     </td>
-  </tr>
-    <tr>
-     <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#" >
        <img src="https://img.icons8.com/color/50/000000/docker" alt="Docker"/>
       </a>
@@ -99,9 +97,7 @@
       </a>
       <br>MSSQL Server
     </td>
-  </tr>
-    <tr>
-     <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#" >
        <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL"/>
       </a>
