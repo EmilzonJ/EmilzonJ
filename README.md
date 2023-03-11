@@ -164,7 +164,8 @@
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/user)  &nbsp; [<img 
 src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/sciencepal/)  &nbsp;  -->
 
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EmilzonJ)](https://github.com/EmilzonJ/README.md)
+
+
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/emilzon-jeronimo-8651ab209 "LinkedIn")  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://instagram.com/emilzon__ "Instagram")  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:emilzonujero@gmail.com "Email") &nbsp; 
-
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EmilzonJ)](https://github.com/EmilzonJ/github-readme-stats)
