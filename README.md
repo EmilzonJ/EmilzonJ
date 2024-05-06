@@ -124,9 +124,15 @@
     </td>
     <td align="center" width="96">
       <a href="#" >
-       <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+       <img src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="Elastic Search"/>
       </a>
-      <br>MySQL
+      <br>Elastic Search
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+       <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis"/>
+      </a>
+      <br>Redis
     </td>
   </tr>
 </table>
