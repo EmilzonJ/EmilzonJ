@@ -14,10 +14,8 @@ I am a Full Stack Engineer with experience in designing, developing, and archite
 ![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=materialui&logoColor=white)
 
 #### Back-end Development:
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 #### Database & Caching:
