@@ -1,177 +1,33 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hello%2C%20World!%22);Console.Writeline(%22Hello%2C%20World!%22);console.log(%22Hello%2C%20World!%22)&font=Fira%20Code&center=true&width=1000&height=50&size=25">
-  </a>
-</h1>
-<p align="center">
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Emilzon!;BackEnd+Developer!&font=Fira%20Code&center=true&width=380&height=50&size=30">
-</p> 
+# Hello, I'm Emilzon 👋
 
-<br>
+## 👨‍💻 Full Stack Engineer
 
-<p align="center">
-  <a href="#">
-    <img src="https://user-images.githubusercontent.com/48784001/130169241-21e51597-9693-47ff-a304-de1812851cd7.gif">
-  </a>
-</p>
+I am a Full Stack Engineer with experience in designing, developing, and architecting advanced solutions, specializing in web applications. I have a proven ability to lead the architecture and execution of robust and scalable software solutions, managing the entire project lifecycle from conceptualization to production deployment.
 
-<br>
-  
-## 🛠  Technologies:
+### 🚀 Areas of Specialization
 
-# BackEnd:
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://img.icons8.com/color/50/000000/django.png" alt="Django"/> 
-      </a>
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>  
-      </a>
-      <br>.NET
-    </td>
-  </tr>
-</table>
+- **Front-end Development**: 
+  - **Frameworks**: React, Next.js, Angular
+  - **CSS Frameworks**: Tailwind CSS, AntDesign, Material UI, Shadcn UI, Nebular
+- **Back-end Development**:
+  - **Languages**: C# (.NET 5/6/7), Ruby (Ruby on Rails), Python (Django Rest Framework)
+  - **ORMs**: Prisma ORM, Dapper, ActiveRecord
+  - **Database & Caching**: PostgreSQL, Microsoft SQL Server, Redis, Elasticsearch
+- **DevOps & Infrastructure**:
+  - **Containers and Orchestration**: Docker, Kubernetes
+  - **Cloud Platforms**: AWS, Azure
+  - **CI/CD**: Bitbucket Pipelines, GitHub Actions
+- **Software Architectures**:
+  - Clean Architecture, Onion Architecture, Domain-Driven Design (DDD), CQRS
+- **Distributed Systems and Microservices**:
+  - Experience in implementing microservices using RabbitMQ, Open Telemetry, Jaeger, Prometheus, Grafana, and Zipkin
+- **Agile Methodologies**: SCRUM, KANBAN
 
-# FrontEnd:
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="JavaScript"/>
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-       <img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="HTML"/>
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-       <img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS"/>
-      </a>
-      <br>CSS
-    </td>
-  </tr>
-</table>
+### 🌱 Constant Learning
 
-# Tools
+I am currently expanding my skills in advanced software development and architecture areas and am always looking for new challenges.
 
-<table>
-  <tr>
-     <td align="center" width="96">
-      <a href="#" >
-       <img src="https://img.icons8.com/color/50/000000/git.png" alt="Git"/>
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-       <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux"/>
-      </a>
-      <br>Linux
-    </td>
-  </tr>
-</table>
+### 📫 Contact
 
-# DevOps
-
-<table>
-  <tr>
-     <td align="center" width="96">
-      <a href="#" >
-       <img src="https://img.icons8.com/fluency/48/000000/azure-1.png" alt="Git"/>
-      </a>
-      <br>Azure
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-       <img src="https://img.icons8.com/color/50/000000/docker" alt="Docker"/>
-      </a>
-      <br>Docker C
-    </td>
-  </tr>
-</table>
-
-# Databases
-
-<table>
-  <tr>
-     <td align="center" width="96">
-      <a href="#" >
-       <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="MSSQL server"/>
-      </a>
-      <br>MSSQL
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-       <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL"/>
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-       <img src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="Elastic Search"/>
-      </a>
-      <br>Elastic Search
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-       <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis"/>
-      </a>
-      <br>Redis
-    </td>
-  </tr>
-</table>
-
-<!-- ## 📊 Stats:
-
-<!-- <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=EmilzonJ&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilzonJ&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
-  </a>
-  <br>
-<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EmilzonJ&bg_color=0d1117&text_color=FFF&border_color=444">
-  </a> -->
-</p>
-
-<!-- ## 🔥 Contributions:
-<p>
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=EmilzonJ&theme=react&background=0d1117&border=666">
-  </a>
-  <br>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=EmilzonJ&theme=react-dark&hide_border=true">
-  </a>
-</p> -->
-
-
-
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links: 
-<!-- 
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/user)  &nbsp; [<img 
-src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/sciencepal/)  &nbsp;  -->
-
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EmilzonJ)](https://github.com/EmilzonJ)
-
-
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/emilzon-jeronimo-8651ab209 "LinkedIn")  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://instagram.com/emilzon__ "Instagram")  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:emilzonujero@gmail.com "Email") &nbsp; 
+- **[LinkedIn](your-linkedin-link)**
+- **Email**: emilzonujero@gmail.com
